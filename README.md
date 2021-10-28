@@ -3,7 +3,7 @@ Future Ready Talent is a virtual internship platform with an opportunity to lear
 
 For more details on Future Ready Talent - https://futurereadytalent.in
 
-## Microsoft Reactor Community
+## [Microsoft Reactor Community](https://www.meetup.com/microsoft-reactor-bengaluru)
 
 **Learn, Connect, Build.**
 
