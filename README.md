@@ -5,7 +5,11 @@ For more details on Future Ready Talent - https://futurereadytalent.in
 
 ## Microsoft Reactor Community
 
-**Join Microsoft Reactor community :point_right: [Link](https://www.meetup.com/microsoft-reactor-bengaluru)**
+**Learn, Connect, Build.**
+
+Microsoft Reactor is located within the central business district of Bengaluru in close proximity to a community of startups, research, and tech-related companies. This Reactor is home to all things developer and startup-related; including the Microsoft for Startups program. The space fosters opportunities for founders, developers, and business leaders to learn, connect, and build through a series of community events, technical classes, hackathons, and meetups. 
+
+Join Microsoft Reactor community :point_right: [Link](https://www.meetup.com/microsoft-reactor-bengaluru)
 
 Learning Modules for Internship:
 
@@ -14,7 +18,7 @@ Learning Modules for Internship:
 * [Master the basics of Azure: AI Fundamentals](https://docs.microsoft.com/en-us/users/23110622/collections/0kjyh8rn55yknr)
 * [Analyzing Data with Microsoft Power BI](https://docs.microsoft.com/en-us/learn/certifications/exams/da-100)
 
-**Microsoft Reactor - Learning Hours Agenda:**
+Microsoft Reactor - Learning Hours Agenda:
 
 |     Date     |    Talk Title    | Speaker | 
 |     :---    | :---           | :---:       |
