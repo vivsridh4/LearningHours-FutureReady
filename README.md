@@ -14,8 +14,12 @@ Learning Modules for Internship:
 * [Master the basics of Azure: AI Fundamentals](https://docs.microsoft.com/en-us/users/23110622/collections/0kjyh8rn55yknr)
 * [Analyzing Data with Microsoft Power BI](https://docs.microsoft.com/en-us/learn/certifications/exams/da-100)
 
-## Learning Hours - Schedule
+## Learning Hours
 
-[9th Nov | Azure Fundamentals](https://www.meetup.com/microsoft-reactor-bengaluru/events/281498816/) by [Vivek Sridhar, Senior Cloud Advocate, Cloud + AI Engineering at Microsoft](https://twitter.com/vivek_sridhar) <br/>
-[23rd Nov | IPL Best Batsman and Best Bowler using Principal Component Analysis and Azure](https://www.meetup.com/microsoft-reactor-bengaluru/events/281541784/) by [Ambarish Ganguly,Senior Consultant - TCS, NASA Citizen Scientist](https://www.linkedin.com/in/ambarish-ganguly/) <br/>
-[30th Nov | Principal Component Analysis details on Cricket Analytics](https://www.meetup.com/microsoft-reactor-bengaluru/events/281541905/) by [Ambarish Ganguly, Senior Consultant - TCS, NASA Citizen Scientist](https://www.linkedin.com/in/ambarish-ganguly/)
+**Agenda:**
+
+|     Date     |    Talk Title    | Speaker | 
+|     :---    | :---           | :---:       |
+| 9th Nov  | [Azure Fundamentals](https://www.meetup.com/microsoft-reactor-bengaluru/events/281498816/)  |  [Vivek Sridhar, Senior Cloud Advocate, Cloud + AI Engineering at Microsoft](https://twitter.com/vivek_sridhar) |
+| 23rd Nov | [IPL Best Batsman and Best Bowler using Principal Component Analysis and Azure](https://www.meetup.com/microsoft-reactor-bengaluru/events/281541784/)  |  [Ambarish Ganguly,Senior Consultant - TCS, NASA Citizen Scientist](https://www.linkedin.com/in/ambarish-ganguly/) |
+| 30th Nov | [Principal Component Analysis details on Cricket Analytics](https://www.meetup.com/microsoft-reactor-bengaluru/events/281541905/)  |  [Ambarish Ganguly,Senior Consultant - TCS, NASA Citizen Scientist](https://www.linkedin.com/in/ambarish-ganguly/) |
