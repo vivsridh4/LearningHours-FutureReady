@@ -3,10 +3,15 @@ Future Ready Talent is a virtual internship platform with an opportunity to lear
 
 For more details on Future Ready Talent - https://futurereadytalent.in
 
-## Learning Hours content & modules
+## [Microsoft Reactor - Learning Hours](https://www.meetup.com/microsoft-reactor-bengaluru)
 
-Coming soon!
+**Join Microsoft Reactor community :point_right: [Link](https://www.meetup.com/microsoft-reactor-bengaluru)**
+
+Learning Modules for Internship:
+
+
+
 
 ## Learning Hours - Schedule
 
-Coming Soon!
+
