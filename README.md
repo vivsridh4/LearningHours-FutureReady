@@ -16,4 +16,6 @@ Learning Modules for Internship:
 
 ## Learning Hours - Schedule
 
-Coming Soon!
+[9th Nov | Azure Fundamentals](https://www.meetup.com/microsoft-reactor-bengaluru/events/281498816/) by [Vivek Sridhar, Senior Cloud Advocate, Cloud + AI Engineering at Microsoft](https://twitter.com/vivek_sridhar) <br/>
+[23rd Nov | IPL Best Batsman and Best Bowler using Principal Component Analysis and Azure](https://www.meetup.com/microsoft-reactor-bengaluru/events/281541784/) by [Ambarish Ganguly,Senior Consultant - TCS, NASA Citizen Scientist](https://www.linkedin.com/in/ambarish-ganguly/) <br/>
+[30th Nov | Principal Component Analysis details on Cricket Analytics](https://www.meetup.com/microsoft-reactor-bengaluru/events/281541905/) by [Ambarish Ganguly, Senior Consultant - TCS, NASA Citizen Scientist](https://www.linkedin.com/in/ambarish-ganguly/)
