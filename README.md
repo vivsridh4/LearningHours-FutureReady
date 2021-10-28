@@ -9,9 +9,11 @@ For more details on Future Ready Talent - https://futurereadytalent.in
 
 Learning Modules for Internship:
 
-
-
+* [Azure Fundamentals - core Azure concepts](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-cloud-concepts/)
+* [Azure Fundamentals - For Developers](https://docs.microsoft.com/en-us/learn/certifications/azure-developer/)
+* [Master the basics of Azure: AI Fundamentals](https://docs.microsoft.com/en-us/users/23110622/collections/0kjyh8rn55yknr)
+* [Analyzing Data with Microsoft Power BI](https://docs.microsoft.com/en-us/learn/certifications/exams/da-100)
 
 ## Learning Hours - Schedule
 
-
+Coming Soon!
