@@ -13,10 +13,10 @@ Join Microsoft Reactor community :point_right: [Link](https://www.meetup.com/mic
 
 Learning Modules for Internship:
 
-* [Azure Fundamentals - core Azure concepts](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-cloud-concepts/)
-* [Azure Fundamentals - For Developers](https://docs.microsoft.com/en-us/learn/certifications/azure-developer/)
-* [Master the basics of Azure: AI Fundamentals](https://docs.microsoft.com/en-us/users/23110622/collections/0kjyh8rn55yknr)
-* [Analyzing Data with Microsoft Power BI](https://docs.microsoft.com/en-us/learn/certifications/exams/da-100)
+* [Azure Fundamentals - core Azure concepts](https://docs.microsoft.com/learn/paths/az-900-describe-cloud-concepts/?wt.mc_id=github_14773_webinar_reactor)
+* [Azure Fundamentals - For Developers](https://docs.microsoft.com/learn/certifications/azure-developer/?wt.mc_id=github_14784_webinar_reactor)
+* [Master the basics of Azure: AI Fundamentals](https://docs.microsoft.com/users/23110622/collections/0kjyh8rn55yknr/?wt.mc_id=github_14784_webinar_reactor)
+* [Analyzing Data with Microsoft Power BI](https://docs.microsoft.com/learn/certifications/exams/da-100/?wt.mc_id=github_14773_webinar_reactor)
 
 Microsoft Reactor - Learning Hours Agenda:
 
