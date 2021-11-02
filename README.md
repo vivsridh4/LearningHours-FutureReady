@@ -18,11 +18,11 @@ Learning Modules for Internship:
 * [Master the basics of Azure: AI Fundamentals](https://docs.microsoft.com/users/23110622/collections/0kjyh8rn55yknr/?wt.mc_id=github_14784_webinar_reactor)
 * [Analyzing Data with Microsoft Power BI](https://docs.microsoft.com/learn/certifications/exams/da-100/?wt.mc_id=github_14773_webinar_reactor)
 
-Microsoft Reactor - Learning Hours Agenda:
+Microsoft Reactor - Learning Hours Agenda November:
 
 |     Date     |    Talk Title    | Speaker | 
-|     :---    | :---           | :---:       |
-| 9th Nov  | [Azure Fundamentals](https://www.meetup.com/microsoft-reactor-bengaluru/events/281498816/)  |  [Vivek Sridhar, Senior Cloud Advocate, Cloud + AI Engineering at Microsoft](https://twitter.com/vivek_sridhar) |
-| 16th Nov <br/>  | [Hands-On working with Azure Functions](https://www.meetup.com/microsoft-reactor-bengaluru/events/281815793/?isFirstPublish=true)  |  [Viswanatha Swamy, Software Architect, Applied Information Sciences ](https://twitter.com/vishipayyallore) |
-| 23rd Nov | [IPL Best Batsman and Best Bowler using Principal Component Analysis and Azure](https://www.meetup.com/microsoft-reactor-bengaluru/events/281541784/)  |  [Ambarish Ganguly,Senior Consultant - TCS, NASA Citizen Scientist](https://www.linkedin.com/in/ambarish-ganguly/) |
-| 30th Nov | [Principal Component Analysis details on Cricket Analytics](https://www.meetup.com/microsoft-reactor-bengaluru/events/281541905/)  |  [Ambarish Ganguly,Senior Consultant - TCS, NASA Citizen Scientist](https://www.linkedin.com/in/ambarish-ganguly/) |
+|     :---:    | :---           | :---       |
+| 9th   | [Azure Fundamentals](https://www.meetup.com/microsoft-reactor-bengaluru/events/281498816/)  |  [Vivek Sridhar, Senior Cloud Advocate, Cloud + AI Engineering at Microsoft](https://twitter.com/vivek_sridhar) |
+| 16th    | [Hands-On working with Azure Functions](https://www.meetup.com/microsoft-reactor-bengaluru/events/281815793/?isFirstPublish=true)  |  [Viswanatha Swamy, Software Architect, Applied Information Sciences ](https://twitter.com/vishipayyallore) |
+| 23rd    | [IPL Best Batsman and Best Bowler using Principal Component Analysis and Azure](https://www.meetup.com/microsoft-reactor-bengaluru/events/281541784/)  |  [Ambarish Ganguly,Senior Consultant - TCS, NASA Citizen Scientist](https://www.linkedin.com/in/ambarish-ganguly/) |
+| 30th  | [Principal Component Analysis details on Cricket Analytics](https://www.meetup.com/microsoft-reactor-bengaluru/events/281541905/)  |  [Ambarish Ganguly,Senior Consultant - TCS, NASA Citizen Scientist](https://www.linkedin.com/in/ambarish-ganguly/) |
