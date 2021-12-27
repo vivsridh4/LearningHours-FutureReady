@@ -27,10 +27,10 @@ Microsoft Reactor - Learning Hours Agenda November:
 | 9th   | [Azure Fundamentals](https://www.meetup.com/microsoft-reactor-bengaluru/events/281498816/)  |  [Vivek Sridhar, Senior Cloud Advocate, Cloud + AI Engineering at Microsoft](https://twitter.com/vivek_sridhar) | [Recording](https://www.youtube.com/watch?v=HR4oOtco3_w&t=2921s) |
 | 16th    | [Hands-On working with Azure Functions](https://www.meetup.com/microsoft-reactor-bengaluru/events/281815793/?isFirstPublish=true)  |  [Viswanatha Swamy, Software Architect, Applied Information Sciences ](https://twitter.com/vishipayyallore) | [Recording](https://www.youtube.com/watch?v=HbLedoWqtO8&t=5855s)|
 | 23rd    | [IPL Best Batsman and Best Bowler using Principal Component Analysis and Azure](https://www.meetup.com/microsoft-reactor-bengaluru/events/281541784/)  |  [Ambarish Ganguly,Senior Consultant - TCS, NASA Citizen Scientist](https://www.linkedin.com/in/ambarish-ganguly/) | [Recording](https://www.youtube.com/watch?v=FFzYBe7_Ll4&t=1266s) |
-| 30th  | [Principal Component Analysis details on Cricket Analytics](https://www.meetup.com/microsoft-reactor-bengaluru/events/281541905/)  |  [Ambarish Ganguly,Senior Consultant - TCS, NASA Citizen Scientist](https://www.linkedin.com/in/ambarish-ganguly/) | Coming Soon! |
+| 30th  | [Principal Component Analysis details on Cricket Analytics](https://www.meetup.com/microsoft-reactor-bengaluru/events/281541905/)  |  [Ambarish Ganguly,Senior Consultant - TCS, NASA Citizen Scientist](https://www.linkedin.com/in/ambarish-ganguly/) | [Recording](https://www.youtube.com/watch?v=LSKMl6dP6nQ&t=15s) |
 
 Microsoft Reactor - Learning Hours Agenda December:
 
 |     Date     |    Talk Title    | Speaker | Recordings |
 |     :---:    | :---           | :---       | :--- | 
-| 7th   | [Analyzing Data on Azure with Power BI](https://www.meetup.com/microsoft-reactor-bengaluru/events/281818737/)  |  [Gaurav Agarwal, Cloud Solution Architect, Microsoft](https://www.linkedin.com/in/gaurav-agarwal-bb257314/) | Coming Soon! |
+| 7th   | [Analyzing Data on Azure with Power BI](https://www.meetup.com/microsoft-reactor-bengaluru/events/281818737/)  |  [Gaurav Agarwal, Cloud Solution Architect, Microsoft](https://www.linkedin.com/in/gaurav-agarwal-bb257314/) | [Recording](https://www.youtube.com/watch?v=JCnuoNPjeik) |
